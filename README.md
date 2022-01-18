@@ -1,0 +1,1 @@
+# Powershell-Query-AD-Without-AD-Module
